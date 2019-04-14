@@ -1,0 +1,6 @@
+[submodule "lib/sdl"]
+	path = lib/sdl
+	url = https://github.com/zenturi/linc_sdl
+[submodule "lib/opengl"]
+	path = lib/opengl
+	url = https://github.com/zenturi/linc_opengl
