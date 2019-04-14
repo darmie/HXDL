@@ -1,0 +1,14 @@
+{
+  "name": "hxdl",
+  "url" : "https://github.com/YOUR_NAME/hxdl/",
+  "license": "MIT",
+  "tags": ["haxe","js"],
+  "description": "description of hxdl",
+  "classPath": "src",
+  "version": "0.0.1",
+  "releasenote": "Initial release",
+  "contributors": ["YOUR_NAME"],
+  "dependencies": {
+
+  }
+}

@@ -1,0 +1,13 @@
+-main Test
+-cp src/
+-cp test/
+-cp lib/sdl
+-cp lib/opengl
+
+-cpp bin/cpp
+# -js bin/hxdl.js
+
+-D mac
+-D HXDL_OPENGL
+-D HXDL_OPENALSOFT
+-D debug
