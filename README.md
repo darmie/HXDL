@@ -7,6 +7,8 @@ HXDL is inspired by [Lime](https://github.com/openfl/lime).
 ### Dependencies
 
  * [Haxe](https://haxe.org/)
+ * [linc_sdl](https://github.com/zenturi/linc_sdl)
+ * [linc_opengl](https://github.com/zenturi/linc_opengl)
 
 Run `haxelib install all` to install the dependencies.
 
